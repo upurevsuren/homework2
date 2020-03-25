@@ -1,0 +1,28 @@
+.navbar{
+    background-color: teal !important; 
+    font-size: 25px;
+    color: thistle;
+}
+.container{
+    background-color: lightsteelblue !important;
+
+}
+.display-4{
+ color:teal;
+ font-family: fantasy;
+ font-weight: bold;
+
+
+}
+.card-title1 {
+    background-color: teal !important;
+    
+}
+.one {
+
+    background-color: teal;
+}
+.five {
+    color: teal;
+    background-color: teal;
+}

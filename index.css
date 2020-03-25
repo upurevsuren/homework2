@@ -1,0 +1,16 @@
+body{
+    background-color:azure;
+}
+#navbar-example2{
+    background-color: rgb(82, 141, 143) !important;
+font-size: 35px;
+color: thistle;
+}
+
+
+#text{
+
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}

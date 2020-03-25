@@ -1,0 +1,40 @@
+body{
+    background-color:azure;
+}
+#navbar-example2{
+   background-color: darkcyan !important;
+    font-size: 35px;
+   
+    color: cornsilk;
+    
+}
+#list-inline{
+    font-size: 15;
+}
+#ugtakh{
+    text-align: center;
+    
+}
+.display-4{
+    color: darkcyan;
+}
+.submit{
+    color: white;
+    background-color: darkcyan;
+}
+
+.nav-container{
+    background:#fff;
+}
+
+.nav-container ul{
+    list-style: none;
+}
+
+.nav-container li{
+    display: inline;
+}
+
+.nav-container li a{
+    text-decoration: none;
+}
